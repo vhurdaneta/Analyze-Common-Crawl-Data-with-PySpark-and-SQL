@@ -1,7 +1,7 @@
 # PySpark Project: Analyzing Common Crawl Data with RDDs
 ## Overview
 
-This project demonstrates data analysis on large datasets using PySpark and RDDs. It's part of the "Introduction to Big Data with PySpark" certification from CodeCademy. Key steps include:
+This project demonstrates data analysis on large datasets using PySpark and RDDs. It's part of the "Introduction to Big Data with PySpark" certification from CodeCademy. Key steps include: 
 
 Initialization: Initialize Spark Context and read data.
 Preprocessing (RDDs): Extract and calculate data.
