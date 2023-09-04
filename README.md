@@ -3,28 +3,29 @@
 
 This project demonstrates data analysis on large datasets using PySpark and RDDs. It's part of the "Introduction to Big Data with PySpark" certification from CodeCademy. Key steps include: 
 
-Initialization: Initialize Spark Context and read data.
-Preprocessing (RDDs): Extract and calculate data.
-Stop Spark: Release resources.
-Exploring Data: Use DataFrames and SQL.
-Querying Data: SQL and DataFrames.
-Filtering: Filter data.
-Closing Resources: Properly close Spark.
-
 ## Code Structure
 
 Initialization: Set up Spark and load data.
+
 Preprocessing (RDDs): Format and calculate data.
+
 Stop Spark: Terminate Spark.
+
 Exploring Data: Use DataFrames for structured analysis.
+
 Querying Data: SQL and DataFrames.
+
 Filtering Data: Filter for specific information.
+
 Closing Resources: Release Spark resources.
+
 
 ## Usage
 
 Set up your Spark environment and dependencies.
+
 Replace 'data/cc-main-limited-domains.csv' with your dataset path.
+
 Run the code sections sequentially.
 
 ## Conclusion
